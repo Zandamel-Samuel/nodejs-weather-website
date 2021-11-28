@@ -17,7 +17,7 @@ const search = document.querySelector('input')
 const messageOne = document.querySelector('#message_1')
 const messageTwo = document.querySelector('#message_2')
  
-console.log('Client side javascript file is loaded!')
+//console.log('Client side javascript file is loaded!')
 
 weatherForm.addEventListener('submit', (e) =>{
     e.preventDefault()
